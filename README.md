@@ -5,5 +5,8 @@ https://colab.research.google.com/drive/1oFJBFcXNjG2QA4gYOW5hnoFHXYf4Y9Am?usp=sh
 https://colab.research.google.com/drive/1XYqBKQaFDIoTaFYWDkkRV0m4iqGpe6b2?usp=sharing
 02_lists
 https://colab.research.google.com/drive/15JPsuTQsrnb710RM8vmuEpSE2Z_pgMuQ?usp=sharing
+03_if_statements
+https://colab.research.google.com/drive/1MXojVBIwOwKih67rGrm_C3Y219VZw0kN?usp=sharing
+
 
 
