@@ -16,6 +16,9 @@ https://colab.research.google.com/drive/1enQWolUEUPz-nyI0p8NsQrXq24MfE_7k?usp=sh
 00_information_flow
 https://colab.research.google.com/drive/1PuvbDOg-e4Ul1lXeKOtWbiODO7nSb8qF?usp=sharing
 
+online_class_projects
+https://colab.research.google.com/drive/1miAbVxllMigPsTbonowB7cxTOnw7hWU0?usp=sharing
+
 
 
 
