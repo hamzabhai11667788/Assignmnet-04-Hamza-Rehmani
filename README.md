@@ -13,6 +13,10 @@ https://colab.research.google.com/drive/1L-PL45_8qfpAb4dnmQ1OsKgCJQ-bkEiw?usp=sh
 https://colab.research.google.com/drive/1XsSf29ZYkKn1K3T3mVes0NE28FY9MMGm?usp=sharing
 00_function
 https://colab.research.google.com/drive/1enQWolUEUPz-nyI0p8NsQrXq24MfE_7k?usp=sharing
+00_information_flow
+https://colab.research.google.com/drive/1PuvbDOg-e4Ul1lXeKOtWbiODO7nSb8qF?usp=sharing
+
+
 
 
 
