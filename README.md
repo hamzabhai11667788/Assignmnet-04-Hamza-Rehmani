@@ -9,6 +9,9 @@ https://colab.research.google.com/drive/15JPsuTQsrnb710RM8vmuEpSE2Z_pgMuQ?usp=sh
 https://colab.research.google.com/drive/1MXojVBIwOwKih67rGrm_C3Y219VZw0kN?usp=sharing
 04_dicnories
 https://colab.research.google.com/drive/1L-PL45_8qfpAb4dnmQ1OsKgCJQ-bkEiw?usp=sharing
+05_loop
+https://colab.research.google.com/drive/1XsSf29ZYkKn1K3T3mVes0NE28FY9MMGm?usp=sharing
+
 
 
 
