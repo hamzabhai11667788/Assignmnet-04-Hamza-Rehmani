@@ -18,6 +18,8 @@ https://colab.research.google.com/drive/1PuvbDOg-e4Ul1lXeKOtWbiODO7nSb8qF?usp=sh
 
 online_class_projects
 https://colab.research.google.com/drive/1miAbVxllMigPsTbonowB7cxTOnw7hWU0?usp=sharing
+02_intermediate
+https://colab.research.google.com/drive/1corp-tA3DrdKK7KscUiFfQXigdDGKGGO?usp=sharing
 
 
 
